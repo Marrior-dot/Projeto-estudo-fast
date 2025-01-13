@@ -1,4 +1,4 @@
-#!/home/marrior/Desktop/projetoSoftware/Projeto-estudo-fast/venv/bin/python3
+#!/home/marrior/Desktop/projetoSoftware/Projeto-estudo-fast/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
